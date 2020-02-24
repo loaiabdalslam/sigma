@@ -72,6 +72,7 @@ AUTHORS_BIO = {
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+THEME = 'themes/attila'
 
 MENUITEMS = (
     ('About', '/about/'),

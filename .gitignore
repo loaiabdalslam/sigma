@@ -1,5 +1,4 @@
 *.swp
-output/
 *.pyc
 .DS_Store
 *~
